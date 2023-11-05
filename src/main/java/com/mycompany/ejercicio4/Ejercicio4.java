@@ -32,7 +32,7 @@ public class Ejercicio4 {
         System.out.println("el sueldo mensual del vendedor es: "+sueldo_f);
         
         
-        
+        // codificado por wilmar diaz soto
         
         
         
